@@ -1,0 +1,5 @@
+﻿Build started at 8:35 AM...
+1>------ Build started: Project: HauntedHouseGame, Configuration: Debug Any CPU ------
+1>  HauntedHouseGame -> C:\Users\USER\source\repos\HauntedHouseGame\bin\Debug\HauntedHouseGame.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 8:35 AM and took 00.226 seconds ==========

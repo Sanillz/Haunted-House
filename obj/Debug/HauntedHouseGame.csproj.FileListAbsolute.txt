@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\HauntedHouseGame\bin\Debug\HauntedHouseGame.exe.config
+C:\Users\USER\source\repos\HauntedHouseGame\bin\Debug\HauntedHouseGame.exe
+C:\Users\USER\source\repos\HauntedHouseGame\bin\Debug\HauntedHouseGame.pdb
+C:\Users\USER\source\repos\HauntedHouseGame\obj\Debug\HauntedHouseGame.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HauntedHouseGame\obj\Debug\HauntedHouseGame.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HauntedHouseGame\obj\Debug\HauntedHouseGame.exe
+C:\Users\USER\source\repos\HauntedHouseGame\obj\Debug\HauntedHouseGame.pdb
